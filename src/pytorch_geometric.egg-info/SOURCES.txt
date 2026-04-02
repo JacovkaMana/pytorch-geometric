@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/pytorch_geometric/__init__.py
+src/pytorch_geometric/module.py
+src/pytorch_geometric.egg-info/PKG-INFO
+src/pytorch_geometric.egg-info/SOURCES.txt
+src/pytorch_geometric.egg-info/dependency_links.txt
+src/pytorch_geometric.egg-info/top_level.txt
